@@ -1,0 +1,28 @@
+##Collaboration Terminal Commands
+#Lawrence J. Liu
+#9/20/20
+
+#set WD
+cd Documets/Computational-Social-Science-Projects/Project_1
+
+#clone GitHub repo
+git clone https://github.com/ljliu7620/Github-Collaboration-Practice.git
+
+#create empty text file with names of each group member and update repo
+vim names.txt
+git add names.txt
+git commit -m "text file with group member names"
+git push
+
+git pull
+
+#checkout new branch, and edit names text file to add degree program and keywords
+git checkout -b LL_branch
+vim names.txt
+
+git add *
+git commit -m "text file with Lawrence's information"
+git git push
+
+
+
