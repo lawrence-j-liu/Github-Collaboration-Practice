@@ -22,7 +22,7 @@ vim names.txt
 
 git add *
 git commit -m "text file with Lawrence's information"
-git git push
+git push
 
 
 
