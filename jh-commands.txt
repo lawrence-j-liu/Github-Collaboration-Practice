@@ -1,0 +1,9 @@
+git clone 
+git checkout -b new_branch
+ls
+vim names.txt
+i (and made text edits) 
+"Esc" key and :wq 
+git add names.txt 
+git commit -m "JH added program/research info, please review :)"
+git push 
