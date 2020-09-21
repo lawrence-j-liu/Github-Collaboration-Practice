@@ -1,5 +1,5 @@
 git clone https://github.com/lawrence-j-liu/Github-Collaboration-Practice.git
-git checkout -b new_branch
+git checkout -b aa_branch
 cd /Users/audreyaugenbraum/Computational-Social-Science-Projects/Project1/Github-Collaboration-Practice
 vim names.txt
 git add *
